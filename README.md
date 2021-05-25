@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.vvg.hr/"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
+    I am a 3rd Year undergraduate at <a href="https://www.vvg.hr/"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
     23 years of living on this planet! <br>
     <b>Member of IT Team</b> at <a href="https://estudent.hr/"> <b>eSTUDENT</b></a><br>
     <b>I am Software Developer</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
