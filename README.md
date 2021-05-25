@@ -8,9 +8,9 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate at <a href="https://www.vvg.hr/"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
+    I am a 3rd Year undergraduate at <a target="_blank" href="https://www.vvg.hr/"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
     23 years of living on this planet! <br>
-    <b>Member of IT Team</b> at <a href="https://estudent.hr/"> <b>eSTUDENT</b></a><br>
+    <b>Member of IT Team</b> at <a target="_blank" href="https://estudent.hr/"> <b>eSTUDENT</b></a><br>
     <b>I am Software Developer</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Rocket.gif" width="18px">and 
@@ -54,14 +54,14 @@
 
 # Connect with me<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Handshake.gif" height="32px">
 
-<!--  <a href="https://kamikaza36.io">
+<!--  <a target="_blank" href="https://kamikaza36.io">
     <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/www.svg" />
 -->
-  <a href="https://www.linkedin.com/in/petar-klenovic/">
+  <a target="_blank" href="https://www.linkedin.com/in/petar-klenovic/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:petar.klenovic@gmail.com">
+  <a target="_blank" href="mailto:petar.klenovic@gmail.com">
     <img align="left" alt="Petar Klenović | Gmail" width="26px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
