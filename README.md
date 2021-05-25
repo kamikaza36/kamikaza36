@@ -1,35 +1,35 @@
-# Petar Klenović&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Petar Klenović&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 <!--
     &nbsp; [![HitCount](http://hits.dwyl.com/kamikaza36/kamikaza36.svg)](http://hits.dwyl.com/kamikaza36/kamikaza36)
 -->
 
-### <img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.vvg.hr/"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
     23 years of living on this planet! <br>
     <b>Member of IT Team</b> at <a href="https://estudent.hr/"> <b>eSTUDENT</b></a><br>
-    <b>I am Software Developer</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>I am Software Developer</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>grow</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Medal.gif" width="20px"> <br>
     I Love <b>Backend Development</b> but I also feel comfortable in Fullstack environment.<br>
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_open_to_explore_new **opportunities** 👨‍💻
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** With **React**💪, **Node** and **Django**❤️.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning and Loving **Django**🤯.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/hmm.gif" width="20vw" /> I am big **Crypto** ₿ enthusiast and also have interest in **Dev Ops**🤖.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I don't drink coffee ☕, I prefer tea 🌼
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/wave.gif" width="20vw" /> I’m _currently_open_to_explore_new **opportunities** 👨‍💻
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** With **React**💪, **Node** and **Django**❤️.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> Currently Learning and Loving **Django**🤯.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> I am big **Crypto** ₿ enthusiast and also have interest in **Dev Ops**🤖.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** I don't drink coffee ☕, I prefer tea 🌼
   <br>
 
-![kamikaza36 github stats](https://github-readme-stats.vercel.app/api?username=kamikaza36&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
+![kamikaza36 github stats](https://github-readme-stats.vercel.app/api?username=kamikaza36&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikaza36&layout=compact&theme=radical)
 
@@ -50,19 +50,19 @@
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
 <br>
-<!-- <img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Animation.gif" alt="Developer" style="float: left;" width="700px"> -->
+<!-- <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Animation.gif" alt="Developer" style="float: left;" width="700px"> -->
 
-# Connect with me<img src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Handshake.gif" height="32px">
 
 <!--  <a href="https://kamikaza36.io">
-    <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/www.svg" />
+    <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/www.svg" />
 -->
   <a href="https://www.linkedin.com/in/petar-klenovic/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
   <a href="mailto:petar.klenovic@gmail.com">
-    <img align="left" alt="Petar Klenović | Gmail" width="26px" src="https://github.com/kamikaza36/kamikaza36/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Petar Klenović | Gmail" width="26px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
 
