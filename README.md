@@ -57,7 +57,7 @@
 <!--  <a href="https://kamikaza36.io" target="_blank">
     <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/www.svg" />
 -->
-<div style="display: inline-block;">
+<div width="100%" style="display: inline-block; margin-bottom: 10px;">
   <a href="https://www.linkedin.com/in/petar-klenovic/" target="_blank">
     <img align="left" alt="Petar Klenović | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
