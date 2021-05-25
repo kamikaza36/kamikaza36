@@ -21,7 +21,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/wave.gif" width="20vw" /> I’m _currently_open_to_explore_new **opportunities** 👨‍💻
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/wave.gif" width="20vw" /> I’m  currently open to explore new **opportunities** 👨‍💻
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** With **React**💪, **Node** and **Django**❤️.
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> Currently Learning and Loving **Django**🤯.
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> I am big **Crypto** ₿ enthusiast and also have interest in **Dev Ops**🤖.
