@@ -57,6 +57,7 @@
 <!--  <a href="https://kamikaza36.io" target="_blank">
     <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/www.svg" />
 -->
+<div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/petar-klenovic/" target="_blank">
     <img align="left" alt="Petar Klenović | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
@@ -64,8 +65,11 @@
   <a href="mailto:petar.klenovic@gmail.com" target="_blank">
     <img align="left" alt="Petar Klenović | Gmail" width="26px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+</div>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamikaza36)
+
 
 <!-- ![visitors](https://badges.pufler.dev/visits/kamikaza36/kamikaza36)
 ![Visitor Count](https://profile-counter.glitch.me/kamikaza36/count.svg) -->
