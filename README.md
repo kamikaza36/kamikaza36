@@ -58,7 +58,7 @@
     <img align="left" alt="kamikaza36 | Portfolio" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/www.svg" />
 -->
   <a href="https://www.linkedin.com/in/petar-klenovic/" target="_blank">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
+    <img align="left" alt="Petar Klenović | Linkedin" width="24px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
   <a href="mailto:petar.klenovic@gmail.com" target="_blank">
@@ -66,15 +66,7 @@
   </a> &nbsp;&nbsp;
 
 
-<br><br>
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-
-</details>
-
-<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamikaza36)
 
