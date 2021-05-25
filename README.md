@@ -29,7 +29,7 @@
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** I don't drink coffee ☕, I prefer tea 🌼
   <br>
 
-![kamikaza36 github stats](https://github-readme-stats.vercel.app/api?username=kamikaza36&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
+![kamikaza36 github stats](https://github-readme-stats.vercel.app/api?username=kamikaza36&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikaza36&layout=compact&theme=radical)
 
