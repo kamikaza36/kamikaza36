@@ -65,9 +65,6 @@
     <img align="left" alt="Petar Klenović | Gmail" width="26px" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-
-<br>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamikaza36)
 
 <!-- ![visitors](https://badges.pufler.dev/visits/kamikaza36/kamikaza36)
