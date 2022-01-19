@@ -10,7 +10,7 @@
   <em>
     I am a 3rd Year undergraduate at <a href="https://www.vvg.hr/" target="_blank"> <b>University Of Applied Sciences Velika Gorica</b></a>. <br>
     23 years of living on this planet! <br>
-    <b>Member of IT Team</b> at <a href="https://estudent.hr/" target="_blank"> <b>eSTUDENT</b></a><br>
+    <b>Team leader of IT Team</b> at <a href="https://estudent.hr/" target="_blank"> <b>eSTUDENT</b></a><br>
     <b>I am Software Developer</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/Rocket.gif" width="18px">and 
@@ -21,14 +21,14 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/wave.gif" width="20vw" /> I’m  currently open to explore new **opportunities** 👨‍💻
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** With **React**💪, **Node** and **Django**❤️.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> Currently Learning and Loving **Django**🤯.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> I am big **Crypto** ₿ enthusiast and also have interest in **Dev Ops**🤖.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> Currently Learning and Loving **Flutter**🤯.
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/hmm.gif" width="20vw" /> I am big **Crypto** ₿ enthusiast and also have interest in **Mobile development**🤖.
 - <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
-- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** I don't drink coffee ☕, I prefer tea 🌼
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/coin.gif" width="20vw" /> ~~**Fun fact:** I don't drink coffee☕, I prefer tea 🌼~~
   <br>
-
+- <img alt="GIF" src="https://github.com/kamikaza36/kamikaza36/blob/main/Assets/coin.gif" width="20vw" /> **New fun fact:** I started drinking coffee☕, still loving tea tho 🌼
+  <br>
 ![kamikaza36 github stats](https://github-readme-stats.vercel.app/api?username=kamikaza36&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikaza36&layout=compact&theme=radical)
